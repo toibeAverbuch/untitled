@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <company>Alfreds Futterkiste</company>
+    <country>Germany</country>
+
+    <company>Centro comercial Moctezuma</company>
+    <country>Mexico</country>
+
+    <company>Ernst Handel</company>
+    <country>Austria</country>
+
+    <company>Island Trading</company>
+    <country>UK</country>
+
+    <company>Laughing Bacchus Winecellars</company>
+    <country>Canada</country>
+
+</root>
